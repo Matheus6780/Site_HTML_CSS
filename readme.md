@@ -1,2 +1,2 @@
-Site responsivo feito com html e css, css-grid,
-fontes externas e carinho
+Site responsivo feito com html, css, css-grid e
+fontes externas 
